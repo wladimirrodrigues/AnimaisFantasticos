@@ -1,2 +1,1 @@
-# AnimaisFantasticos
-Projeto feito no curso de JAVASCRIPT
+# Projetos focados em analise de dados usando python
